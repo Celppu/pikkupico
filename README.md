@@ -9,3 +9,6 @@ ch340E cannot put micro to flash mode and that DW07D thinks that disconnected ba
 TODO next verion remember strapping pins and remove usb flash button. Currently not out of the box working
 ![pikkupico](https://user-images.githubusercontent.com/42336725/171724334-3937b3fd-16ed-49eb-9333-6a1dabd063cc.jpeg)
 
+Project requiring higly customized tech.
+![valoi](https://user-images.githubusercontent.com/42336725/182961554-3e0e72d5-b14b-44f1-8631-25fdf2b9339b.gif)
+
